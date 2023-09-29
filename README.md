@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hola! Mi nombre es Silvana Guzmán 👋</h1>
+<h2>Desarolladora Frontend</h2>
 
-<!--
-**SilvanaGuz/SilvanaGuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mi
+- Tengo 28 años y Soy de San Luis, Argentina.
+- Estudiante de Desarollo Frontend.
+- Me gusta crear sitios web atractivos y funcionales.
+- Soy una persona que busca aprender y mejorar cada día.
+- Amante del cafe y las infusiones ☕.
 
-Here are some ideas to get you started:
+### Tecnologias
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacto
+<a href="https://www.linkedin.com/in/silvana-guzman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Silvana%20Guzman-blue?style=flat-square&logo=linkedin"></a>
+<a href="SilvanaGuz@Outlook.es"><img alt="Email" src="https://img.shields.io/badge/Outlook-SilvanaGuz@Outlook.es-blue?style=flat-square&logo=Gmail"></a>
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=silvanaguz&show_icons=true)
